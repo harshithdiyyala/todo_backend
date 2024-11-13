@@ -1,4 +1,4 @@
-const Todo = require("../models/Todo")
+const Todo = require("../models/todo")
 
 const VALID_STATUSES = ["done", "pending", "in progress", "completed"]
 
